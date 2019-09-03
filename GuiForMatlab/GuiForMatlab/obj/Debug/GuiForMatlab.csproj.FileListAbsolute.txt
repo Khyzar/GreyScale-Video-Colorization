@@ -1,0 +1,16 @@
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\bin\Debug\GuiForMatlab.exe
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\bin\Debug\GuiForMatlab.exe.config
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\obj\Debug\Interop.MLApp.dll
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\obj\Debug\GuiForMatlab.csproj.ResolveComReference.cache
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\obj\Debug\GuiForMatlab.Form1.resources
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\obj\Debug\GuiForMatlab.Form2.resources
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\obj\Debug\GuiForMatlab.Properties.Resources.resources
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\obj\Debug\GuiForMatlab.csproj.GenerateResource.Cache
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\obj\Debug\GuiForMatlab.exe
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\obj\Debug\GuiForMatlab.pdb
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\obj\Debug\GuiForMatlab.csprojResolveAssemblyReference.cache
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\bin\Debug\GuiForMatlab.pdb
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\obj\Debug\GuiForMatlab.Form3.resources
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\bin\Debug\MetroFramework.Design.dll
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\bin\Debug\MetroFramework.dll
+C:\Users\khyzar\documents\visual studio 2012\Projects\GuiForMatlab\GuiForMatlab\bin\Debug\MetroFramework.Fonts.dll
